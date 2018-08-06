@@ -1,0 +1,22 @@
+{
+  "name": "webpack4",
+  "version": "1.0.0",
+  "description": "webpack4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenergy/webpack4.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "jsmart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenergy/webpack4/issues"
+  },
+  "homepage": "https://github.com/jenergy/webpack4#readme"
+}
